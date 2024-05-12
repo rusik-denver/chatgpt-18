@@ -1,0 +1,10 @@
+faiss-cpu
+langchain==0.0.271
+openai==0.27.4
+tiktoken
+python-dotenv
+fastapi==0.90.1
+uvicorn
+pydantic
+sentence_transformers
+nltk
